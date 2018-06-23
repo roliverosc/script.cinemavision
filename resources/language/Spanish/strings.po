@@ -10,7 +10,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 msgctxt "#32000"
@@ -23,95 +23,95 @@ msgstr ""
 
 msgctxt "#32002"
 msgid "Sequence"
-msgstr ""
+msgstr "Secuencia"
 
 msgctxt "#32003"
 msgid "2D sequence"
-msgstr ""
+msgstr "Secuencia 2D"
 
 msgctxt "#32004"
 msgid "3D sequence"
-msgstr ""
+msgstr "Secuencia 3D"
 
 msgctxt "#32005"
 msgid "3D tag detection regex"
-msgstr ""
+msgstr "Expresión regular para detección etiquetado 3D"
 
 msgctxt "#32006"
 msgid "Fallback to 2D bumper"
-msgstr ""
+msgstr "Retroceder a bumper 2D "
 
 msgctxt "#32007"
 msgid "Content"
-msgstr ""
+msgstr "Contenido"
 
 msgctxt "#32008"
 msgid "Content path"
-msgstr ""
+msgstr "Ruta para contenido"
 
 msgctxt "#32009"
 msgid "Update content"
-msgstr ""
+msgstr "Actualizar contenido"
 
 msgctxt "#32010"
 msgid "Update when editor starts"
-msgstr ""
+msgstr "Actualizar cuando comienze el editor"
 
 msgctxt "#32011"
 msgid "Content Scrapers"
-msgstr ""
+msgstr "Scrapers para contenido"
 
 msgctxt "#32012"
 msgid "Trailers: CV Trailers Folder"
-msgstr ""
+msgstr "Tráilers: CV Carpeta Tráiler"
 
 msgctxt "#32013"
 msgid "Trailers: Kodi Database"
-msgstr ""
+msgstr "Tráilers: Base de datos Kodi"
 
 msgctxt "#32014"
 msgid "Ignore YouTube trailers"
-msgstr ""
+msgstr "Ignorar tráilers de Youtube"
 
 msgctxt "#32015"
 msgid "Mark watched if movie is watched"
-msgstr ""
+msgstr "Marcar como visto si la película fue vista"
 
 msgctxt "#32016"
 msgid "Trailers: Apple iTunes"
-msgstr ""
+msgstr "Tráilers: Apple iTunes"
 
 msgctxt "#32017"
 msgid "Trailers: StereoscopyNews.com"
-msgstr ""
+msgstr "Tráilers: StereoscopyNews.com"
 
 msgctxt "#32018"
 msgid "Playback"
-msgstr ""
+msgstr "Reproducción"
 
 msgctxt "#32019"
 msgid "Hide queue editor"
-msgstr ""
+msgstr "Ocultar editor de cola"
 
 msgctxt "#32020"
 msgid "If only one item queued"
-msgstr ""
+msgstr "Si hay sólo un elemento en cola"
 
 msgctxt "#32021"
 msgid "Allow video skipping"
-msgstr ""
+msgstr "Permitir salto de vídeo"
 
 msgctxt "#32022"
 msgid "Video delay (milliseconds)"
-msgstr ""
+msgstr "Retardo de vídeo (milisegundos)"
 
 msgctxt "#32023"
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 msgctxt "#32024"
 msgid "Module Defaults"
-msgstr ""
+msgstr "Módulo por defecto"
 
 msgctxt "#32025"
 msgid "Volume (% of current)"
@@ -119,83 +119,83 @@ msgstr ""
 
 msgctxt "#32026"
 msgid "Trivia"
-msgstr ""
+msgstr "Trivial"
 
 msgctxt "#32027"
 msgid "Music"
-msgstr ""
+msgstr "Música"
 
 msgctxt "#32028"
 msgid "Fade in (seconds)"
-msgstr ""
+msgstr "Fundido de entrada (segundos)"
 
 msgctxt "#32029"
 msgid "Fade out (seconds)"
-msgstr ""
+msgstr "Fundido de salida (segundos)"
 
 msgctxt "#32030"
 msgid "Format"
-msgstr ""
+msgstr "Formato"
 
 msgctxt "#32031"
 msgid "Duration (minutes)"
-msgstr ""
+msgstr "Duración (minutos)"
 
 msgctxt "#32032"
 msgid "Question duration (seconds)"
-msgstr ""
+msgstr "Duración de la pregunta (segundos)"
 
 msgctxt "#32033"
 msgid "Clue duration (seconds)"
-msgstr ""
+msgstr "Duración de la pista (segundos)"
 
 msgctxt "#32034"
 msgid "Answer duration (seconds)"
-msgstr ""
+msgstr "Duración de la respuesta (segundos)"
 
 msgctxt "#32035"
 msgid "Single duration (seconds)"
-msgstr ""
+msgstr "Duración del objeto (segundos)"
 
 msgctxt "#32036"
 msgid "Transition"
-msgstr ""
+msgstr "Transición"
 
 msgctxt "#32037"
 msgid "None"
-msgstr ""
+msgstr "Ninguno"
 
 msgctxt "#32038"
 msgid "Fade"
-msgstr ""
+msgstr "Fundido"
 
 msgctxt "#32039"
 msgid "Slide Left"
-msgstr ""
+msgstr "Deslizar a Izquierda"
 
 msgctxt "#32040"
 msgid "Slide Right"
-msgstr ""
+msgstr "Deslizar a Derecha"
 
 msgctxt "#32041"
 msgid "Slide Up"
-msgstr ""
+msgstr "Deslizar hacia Arriba"
 
 msgctxt "#32042"
 msgid "Slide Down"
-msgstr ""
+msgstr "Deslizar hacia Abajo"
 
 msgctxt "#32043"
 msgid "Transition: Duration (milliseconds)"
-msgstr ""
+msgstr "Transición: Duración (milisegundos)"
 
 msgctxt "#32044"
 msgid "Music: Path"
-msgstr ""
+msgstr "Música: Ruta"
 
 msgctxt "#32045"
 msgid "Music: File"
-msgstr ""
+msgstr "Música: Archivo"
 
 msgctxt "#32046"
 msgid "Slide"
@@ -203,15 +203,15 @@ msgstr ""
 
 msgctxt "#32047"
 msgid "Directory"
-msgstr ""
+msgstr "Directorio"
 
 msgctxt "#32048"
 msgid "File"
-msgstr ""
+msgstr "Archivo"
 
 msgctxt "#32049"
 msgid "Trailers"
-msgstr ""
+msgstr "Tráilers"
 
 msgctxt "#32050"
 msgid "Prefer unwatched over priority"
