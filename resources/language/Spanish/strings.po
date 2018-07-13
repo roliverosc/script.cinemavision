@@ -15,11 +15,11 @@ msgstr ""
 
 msgctxt "#32000"
 msgid "CinemaVision"
-msgstr ""
+msgstr "CinemaVision"
 
 msgctxt "#32001"
 msgid "General"
-msgstr ""
+msgstr "General"
 
 msgctxt "#32002"
 msgid "Sequence"
@@ -63,7 +63,7 @@ msgstr "Scrapers para contenido"
 
 msgctxt "#32012"
 msgid "Trailers: CV Trailers Folder"
-msgstr "Tráilers: CV Carpeta Tráiler"
+msgstr "Tráilers: Carpeta CV Tráiler"
 
 msgctxt "#32013"
 msgid "Trailers: Kodi Database"
