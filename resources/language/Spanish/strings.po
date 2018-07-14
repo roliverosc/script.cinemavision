@@ -199,7 +199,7 @@ msgstr "Música: Archivo"
 
 msgctxt "#32046"
 msgid "Slide"
-msgstr ""
+msgstr "Deslizar"
 
 msgctxt "#32047"
 msgid "Directory"
@@ -215,15 +215,15 @@ msgstr "Tráilers"
 
 msgctxt "#32050"
 msgid "Prefer unwatched over priority"
-msgstr ""
+msgstr "Preferir no vistas sobre prioridad"
 
 msgctxt "#32051"
 msgid "Clear trailers watched status"
-msgstr ""
+msgstr "Limpiar estado de visto para tráirles"
 
 msgctxt "#32052"
 msgid "Source"
-msgstr ""
+msgstr "Recurso"
 
 msgctxt "#32053"
 msgid "Single File"
