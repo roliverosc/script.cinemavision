@@ -259,7 +259,7 @@ msgstr "Recuento"
 
 msgctxt "#32061"
 msgid "Rating limit"
-msgstr "Límite de calificación"
+msgstr "Límite calificación"
 
 msgctxt "#32062"
 msgid "Max"
@@ -271,7 +271,7 @@ msgstr ""
 
 msgctxt "#32064"
 msgid "Max (needs Content path set and updated)"
-msgstr "Máximo (necesita establecer la ruta de contenido y actualización)"
+msgstr "Máximo (necesita establecer ruta para contenido y actualizar)"
 
 msgctxt "#32065"
 msgid "Match feature genres"
@@ -295,11 +295,11 @@ msgstr "Detección automática desde recurso"
 
 msgctxt "#32070"
 msgid "Choose format"
-msgstr ""
+msgstr "Seleccionar formato"
 
 msgctxt "#32071"
 msgid "Choose file"
-msgstr ""
+msgstr "Seleccionar archivo"
 
 msgctxt "#32072"
 msgid "Fallback"
@@ -307,19 +307,19 @@ msgstr ""
 
 msgctxt "#32073"
 msgid "Features"
-msgstr ""
+msgstr "Caracteristicas"
 
 msgctxt "#32074"
 msgid "Audio Format"
-msgstr ""
+msgstr "Formato de audio"
 
 msgctxt "#32075"
 msgid "Default rating system"
-msgstr ""
+msgstr "Sistema de calificación predeterminado"
 
 msgctxt "#32076"
 msgid "Default rating system (needs Content path set and updated)"
-msgstr ""
+msgstr "Sistema de calificación predeterminado (necesita establecer ruta para contenido y actualizar)"
 
 msgctxt "#32077"
 msgid "Rating bumper"
@@ -327,47 +327,47 @@ msgstr ""
 
 msgctxt "#32078"
 msgid "Image"
-msgstr ""
+msgstr "Imagen"
 
 msgctxt "#32079"
 msgid "Style"
-msgstr ""
+msgstr "Estilo"
 
 msgctxt "#32080"
 msgid "Rating style selection"
-msgstr ""
+msgstr "Selección estilo calificación"
 
 msgctxt "#32081"
 msgid "Rating style"
-msgstr ""
+msgstr "Estilo calificación"
 
 msgctxt "#32082"
 msgid "Rating style (needs Content path set and updated)"
-msgstr ""
+msgstr "Estilo calificación (necesita establecer ruta para contenido y actualizar)"
 
 msgctxt "#32083"
 msgid "Actions"
-msgstr ""
+msgstr "Acciones"
 
 msgctxt "#32084"
 msgid "Execute action on sequence pause"
-msgstr ""
+msgstr "Ejecutar acción en pausa de secuencia"
 
 msgctxt "#32085"
 msgid "Action file path"
-msgstr ""
+msgstr "Ruta de archivo para acción"
 
 msgctxt "#32086"
 msgid "Execute action on sequence resume"
-msgstr ""
+msgstr "Ejecutar acción en secuencia de reanudación"
 
 msgctxt "#32087"
 msgid "Last"
-msgstr ""
+msgstr "Últimmo"
 
 msgctxt "#32088"
 msgid "Execute action on sequence abort"
-msgstr ""
+msgstr "Ejecutar acción en secuencía de interrupción"
 
 msgctxt "#32089"
 msgid "Test"
