@@ -279,7 +279,7 @@ msgstr ""
 
 msgctxt "#32066"
 msgid "Filter for 3D based on feature"
-msgstr ""
+msgstr "Filtrar por tipo 3D en caractéristica"
 
 msgctxt "#32067"
 msgid "Quality"
@@ -323,7 +323,7 @@ msgstr "Sistema de calificación predeterminado (necesita establecer ruta para c
 
 msgctxt "#32077"
 msgid "Rating bumper"
-msgstr ""
+msgstr "Bumper calificación"
 
 msgctxt "#32078"
 msgid "Image"
@@ -351,7 +351,7 @@ msgstr "Acciones"
 
 msgctxt "#32084"
 msgid "Execute action on sequence pause"
-msgstr "Ejecutar acción en pausa de secuencia"
+msgstr "Ejecutar acción durante pausa"
 
 msgctxt "#32085"
 msgid "Action file path"
@@ -359,7 +359,7 @@ msgstr "Ruta de archivo para acción"
 
 msgctxt "#32086"
 msgid "Execute action on sequence resume"
-msgstr "Ejecutar acción en secuencia de reanudación"
+msgstr "Ejecutar acción durante reanudación"
 
 msgctxt "#32087"
 msgid "Last"
@@ -367,113 +367,113 @@ msgstr "Últimmo"
 
 msgctxt "#32088"
 msgid "Execute action on sequence abort"
-msgstr "Ejecutar acción en secuencía de interrupción"
+msgstr "Ejecutar acción durante interrupción"
 
 msgctxt "#32089"
 msgid "Test"
-msgstr ""
+msgstr "Test"
 
 msgctxt "#32090"
 msgid "Not Set"
-msgstr ""
+msgstr "No establecido"
 
 msgctxt "#32091"
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzado"
 
 msgctxt "#32092"
 msgid "Scope (requires add-on restart)"
-msgstr ""
+msgstr "Scope (necesario reiniciar add-on)"
 
 msgctxt "#32093"
 msgid "Logging"
-msgstr ""
+msgstr "Logging"
 
 msgctxt "#32094"
 msgid "Debug logging"
-msgstr ""
+msgstr "Logging de depuración"
 
 msgctxt "#32095"
 msgid "Paste my kodi.log to pastebin"
-msgstr ""
+msgstr "Subir mi kodi.log a pastebin"
 
 msgctxt "#32096"
 msgid "Pastebin user (necessary to paste as user)"
-msgstr ""
+msgstr "Usuario pastebin (necesario para pegar como usuario)"
 
 msgctxt "#32097"
 msgid "Delete Pastebin user key"
-msgstr ""
+msgstr "Eliminar clave de usuario Pastebin"
 
 msgctxt "#32098"
 msgid "Debugging"
-msgstr ""
+msgstr "Depuración"
 
 msgctxt "#32099"
 msgid "Reset content database"
-msgstr ""
+msgstr "Restablecer contenido de base de datos"
 
 msgctxt "#32100"
 msgid "Clear trailers broken status"
-msgstr ""
+msgstr "Borrar tráilers con error"
 
 msgctxt "#32101"
 msgid "Extras"
-msgstr ""
+msgstr "Extras"
 
 msgctxt "#32102"
 msgid "Install context menu add-on"
-msgstr ""
+msgstr "Instalar add-on para menú contextual"
 
 msgctxt "#32103"
 msgid "Context menu add-on installed"
-msgstr ""
+msgstr "Add-on para menú contextual instalado"
 
 msgctxt "#32104"
 msgid "Ignore Kodi playlist with only one item if there is a selection"
-msgstr ""
+msgstr "Ignorar lista de reproducción Kodi con solo un elemento si hay una selección"
 
 msgctxt "#32105"
 msgid "Update when Kodi starts"
-msgstr ""
+msgstr "Actualizar durante el inicio de Kodi "
 
 msgctxt "#32106"
 msgid "Update after library scan"
-msgstr ""
+msgstr "Actualizar después de escanear biblioteca"
 
 msgctxt "#32107"
 msgid "Update every... (hours)"
-msgstr ""
+msgstr "Actualizar cada... (horas)"
 
 msgctxt "#32108"
 msgid "Update when Kodi starts (requires service add-on)"
-msgstr ""
+msgstr "Actualizar durante el inicio de Kodi (necesario add-on de servicio)"
 
 msgctxt "#32109"
 msgid "Update after library scan (requires service add-on)"
-msgstr ""
+msgstr "Actualizar después de escanear biblioteca (necesario add-on de servicio)"
 
 msgctxt "#32110"
 msgid "Update every... (hours) (requires service add-on)"
-msgstr ""
+msgstr "Actualizar cada... (horas) (necesario add-on de servicio)"
 
 msgctxt "#32111"
 msgid "Auto Update"
-msgstr ""
+msgstr "Actualización automática"
 
 
 #Sequence
 msgctxt "#32300"
 msgid "3D Intro"
-msgstr ""
+msgstr "Intro 3D"
 
 msgctxt "#32301"
 msgid "3D Outro"
-msgstr ""
+msgstr "Outro 3D"
 
 msgctxt "#32302"
 msgid "Countdown"
-msgstr ""
+msgstr "Cuenta hacía atrás"
 
 msgctxt "#32303"
 msgid "Courtesy"
@@ -481,111 +481,111 @@ msgstr ""
 
 msgctxt "#32304"
 msgid "Feature Intro"
-msgstr ""
+msgstr "Intro Principal"
 
 msgctxt "#32305"
 msgid "Feature Outro"
-msgstr ""
+msgstr "Outro Principal"
 
 msgctxt "#32306"
 msgid "Intermission"
-msgstr ""
+msgstr "Intervalo"
 
 msgctxt "#32307"
 msgid "Short Film"
-msgstr ""
+msgstr "Cortometraje"
 
 msgctxt "#32308"
 msgid "Theater Intro"
-msgstr ""
+msgstr "Intro de cine"
 
 msgctxt "#32309"
 msgid "Theater Outro"
-msgstr ""
+msgstr "Outro de cine"
 
 msgctxt "#32310"
 msgid "Trailers Intro"
-msgstr ""
+msgstr "Tráilers para Intro"
 
 msgctxt "#32311"
 msgid "Trailers Outro"
-msgstr ""
+msgstr "Tráilers para Outro"
 
 msgctxt "#32312"
 msgid "Trivia Intro"
-msgstr ""
+msgstr "Intro para Trivial"
 
 msgctxt "#32313"
 msgid "Trivia Outro"
-msgstr ""
+msgstr "Outro para Trivial"
 
 msgctxt "#32314"
 msgid "Back"
-msgstr ""
+msgstr "Volver"
 
 msgctxt "#32315"
 msgid "Skip"
-msgstr ""
+msgstr "Saltar"
 
 msgctxt "#32316"
 msgid "Feature queue is full"
-msgstr ""
+msgstr "La colá de funciones está llena"
 
 msgctxt "#32317"
 msgid "Feature queue is empty"
-msgstr ""
+msgstr "La colá de funciones está vacía"
 
 msgctxt "#32318"
 msgid "Kodi Database"
-msgstr ""
+msgstr "Base de datos Kodi"
 
 msgctxt "#32319"
 msgid "Scrapers"
-msgstr ""
+msgstr "Scrapers"
 
 msgctxt "#32320"
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 msgctxt "#32321"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "#32322"
 msgid "Default"
-msgstr ""
+msgstr "Por defecto"
 
 msgctxt "#32323"
 msgid "Scrapers filter (scrapers)"
-msgstr ""
+msgstr "Filtrado scrapers (scrapers)"
 
 msgctxt "#32324"
 msgid "Content order"
-msgstr ""
+msgstr "Orden contenido"
 
 msgctxt "#32325"
 msgid "Path"
-msgstr ""
+msgstr "Ruta"
 
 msgctxt "#32326"
 msgid "CV Trailers Folder"
-msgstr ""
+msgstr "Carpeta de Tráilers CV"
 
 msgctxt "#32327"
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 msgctxt "#32328"
 msgid "Play 3D If 3D Feature"
-msgstr ""
+msgstr "Reproducir 3D si existe función 3D"
 
 msgctxt "#32329"
 msgid "Audio Format Bumper"
-msgstr ""
+msgstr "Bumper formato de audio"
 
 msgctxt "#32330"
 msgid "This action is not set or not yet applied."
-msgstr ""
+msgstr "Esta acción no está establecida o aún no se aplicó."
 
 msgctxt "#32331"
 msgid "Command"
