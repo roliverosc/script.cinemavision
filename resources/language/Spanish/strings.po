@@ -111,11 +111,11 @@ msgstr "Vídeo"
 
 msgctxt "#32024"
 msgid "Module Defaults"
-msgstr "Módulo por defecto"
+msgstr ""
 
 msgctxt "#32025"
 msgid "Volume (% of current)"
-msgstr ""
+msgstr "Volumen (% del actual)"
 
 msgctxt "#32026"
 msgid "Trivia"
@@ -227,43 +227,43 @@ msgstr "Recurso"
 
 msgctxt "#32053"
 msgid "Single File"
-msgstr ""
+msgstr "Archivo único"
 
 msgctxt "#32054"
 msgid "Source: Content filter (scrapers)"
-msgstr ""
+msgstr "Recurso: Filtro por contenido (scrapers) "
 
 msgctxt "#32055"
 msgid "Source: Content order"
-msgstr ""
+msgstr "Recurso: Orden de contenido"
 
 msgctxt "#32056"
 msgid "Newest"
-msgstr ""
+msgstr "El más nuevo"
 
 msgctxt "#32057"
 msgid "Random"
-msgstr ""
+msgstr "Aleatorio"
 
 msgctxt "#32058"
 msgid "Source: Directory"
-msgstr ""
+msgstr "Recurso: Directorio"
 
 msgctxt "#32059"
 msgid "Source: File"
-msgstr ""
+msgstr "Recurso: Archivo"
 
 msgctxt "#32060"
 msgid "Count"
-msgstr ""
+msgstr "Recuento"
 
 msgctxt "#32061"
 msgid "Rating limit"
-msgstr ""
+msgstr "Límite de calificación"
 
 msgctxt "#32062"
 msgid "Max"
-msgstr ""
+msgstr "Máximo"
 
 msgctxt "#32063"
 msgid "Match Features"
@@ -271,7 +271,7 @@ msgstr ""
 
 msgctxt "#32064"
 msgid "Max (needs Content path set and updated)"
-msgstr ""
+msgstr "Máximo (necesita establecer la ruta de contenido y actualización)"
 
 msgctxt "#32065"
 msgid "Match feature genres"
@@ -283,15 +283,15 @@ msgstr ""
 
 msgctxt "#32067"
 msgid "Quality"
-msgstr ""
+msgstr "Calidad"
 
 msgctxt "#32068"
 msgid "Method"
-msgstr ""
+msgstr "Método"
 
 msgctxt "#32069"
 msgid "Auto-detect from source"
-msgstr ""
+msgstr "Detección automática desde recurso"
 
 msgctxt "#32070"
 msgid "Choose format"
