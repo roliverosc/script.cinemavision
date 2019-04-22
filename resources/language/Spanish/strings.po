@@ -55,7 +55,7 @@ msgstr "Actualizar contenido"
 
 msgctxt "#32010"
 msgid "Update when editor starts"
-msgstr "Actualizar cuando comienze el editor"
+msgstr "Actualizar cuando se inicie el editor"
 
 msgctxt "#32011"
 msgid "Content Scrapers"
@@ -111,7 +111,7 @@ msgstr "Vídeo"
 
 msgctxt "#32024"
 msgid "Module Defaults"
-msgstr ""
+msgstr "Valores por defecto del módulo"
 
 msgctxt "#32025"
 msgid "Volume (% of current)"
@@ -259,7 +259,7 @@ msgstr "Recuento"
 
 msgctxt "#32061"
 msgid "Rating limit"
-msgstr "Límite calificación"
+msgstr "Límite valoración"
 
 msgctxt "#32062"
 msgid "Max"
