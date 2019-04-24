@@ -35,7 +35,7 @@ msgstr "Secuencia 3D"
 
 msgctxt "#32005"
 msgid "3D tag detection regex"
-msgstr "Expresión regular para detección etiquetado 3D"
+msgstr "Expresión regular para detectar etiquetado 3D"
 
 msgctxt "#32006"
 msgid "Fallback to 2D bumper"
@@ -63,7 +63,7 @@ msgstr "Scrapers para contenido"
 
 msgctxt "#32012"
 msgid "Trailers: CV Trailers Folder"
-msgstr "Tráilers: Carpeta CV Tráiler"
+msgstr "Tráilers: Carpeta Tráiler CV"
 
 msgctxt "#32013"
 msgid "Trailers: Kodi Database"
@@ -71,7 +71,7 @@ msgstr "Tráilers: Base de datos Kodi"
 
 msgctxt "#32014"
 msgid "Ignore YouTube trailers"
-msgstr "Ignorar tráilers de Youtube"
+msgstr "Ignorar tráilers Youtube"
 
 msgctxt "#32015"
 msgid "Mark watched if movie is watched"
@@ -95,7 +95,7 @@ msgstr "Ocultar editor de cola"
 
 msgctxt "#32020"
 msgid "If only one item queued"
-msgstr "Si hay sólo un elemento en cola"
+msgstr "Si hay sólo un elemento en la cola"
 
 msgctxt "#32021"
 msgid "Allow video skipping"
@@ -103,7 +103,7 @@ msgstr "Permitir salto de vídeo"
 
 msgctxt "#32022"
 msgid "Video delay (milliseconds)"
-msgstr "Retardo de vídeo (milisegundos)"
+msgstr "Retardo del vídeo (milisegundos)"
 
 msgctxt "#32023"
 msgid "Video"
@@ -271,7 +271,7 @@ msgstr ""
 
 msgctxt "#32064"
 msgid "Max (needs Content path set and updated)"
-msgstr "Máximo (necesita establecer ruta para contenido y actualizar)"
+msgstr "Máximo (necesita establecer la ruta para el contenido y actualizar)"
 
 msgctxt "#32065"
 msgid "Match feature genres"
@@ -279,7 +279,7 @@ msgstr ""
 
 msgctxt "#32066"
 msgid "Filter for 3D based on feature"
-msgstr "Filtrar por tipo 3D en caractéristica"
+msgstr "Filtrar por caractéristica basado en 3D"
 
 msgctxt "#32067"
 msgid "Quality"
@@ -303,7 +303,7 @@ msgstr "Seleccionar archivo"
 
 msgctxt "#32072"
 msgid "Fallback"
-msgstr ""
+msgstr "Volver"
 
 msgctxt "#32073"
 msgid "Features"
@@ -315,11 +315,11 @@ msgstr "Formato de audio"
 
 msgctxt "#32075"
 msgid "Default rating system"
-msgstr "Sistema de calificación predeterminado"
+msgstr "Sistema de valoración predeterminado"
 
 msgctxt "#32076"
 msgid "Default rating system (needs Content path set and updated)"
-msgstr "Sistema de calificación predeterminado (necesita establecer ruta para contenido y actualizar)"
+msgstr "Sistema de valoración predeterminado (necesita establecer la ruta para el contenido y actualizar)"
 
 msgctxt "#32077"
 msgid "Rating bumper"
@@ -343,7 +343,7 @@ msgstr "Estilo calificación"
 
 msgctxt "#32082"
 msgid "Rating style (needs Content path set and updated)"
-msgstr "Estilo calificación (necesita establecer ruta para contenido y actualizar)"
+msgstr "Estilo calificación (necesita establecer la ruta para el contenido y actualizar)"
 
 msgctxt "#32083"
 msgid "Actions"
@@ -351,7 +351,7 @@ msgstr "Acciones"
 
 msgctxt "#32084"
 msgid "Execute action on sequence pause"
-msgstr "Ejecutar acción durante pausa"
+msgstr "Ejecutar acción durante la pausa"
 
 msgctxt "#32085"
 msgid "Action file path"
@@ -359,7 +359,7 @@ msgstr "Ruta de archivo para acción"
 
 msgctxt "#32086"
 msgid "Execute action on sequence resume"
-msgstr "Ejecutar acción durante reanudación"
+msgstr "Ejecutar acción durante la reanudación"
 
 msgctxt "#32087"
 msgid "Last"
@@ -387,19 +387,19 @@ msgstr "Scope (necesario reiniciar add-on)"
 
 msgctxt "#32093"
 msgid "Logging"
-msgstr "Logging"
+msgstr ""
 
 msgctxt "#32094"
 msgid "Debug logging"
-msgstr "Logging de depuración"
+msgstr "Registro de depuración"
 
 msgctxt "#32095"
 msgid "Paste my kodi.log to pastebin"
-msgstr "Subir mi kodi.log a pastebin"
+msgstr "Subir mi kodi.log a Pastebin"
 
 msgctxt "#32096"
 msgid "Pastebin user (necessary to paste as user)"
-msgstr "Usuario pastebin (necesario para pegar como usuario)"
+msgstr "Usuario Pastebin (necesario para subir como usuario)"
 
 msgctxt "#32097"
 msgid "Delete Pastebin user key"
@@ -411,7 +411,7 @@ msgstr "Depuración"
 
 msgctxt "#32099"
 msgid "Reset content database"
-msgstr "Restablecer contenido de base de datos"
+msgstr "Restablecer el contenido de la base de datos"
 
 msgctxt "#32100"
 msgid "Clear trailers broken status"
@@ -431,11 +431,11 @@ msgstr "Add-on para menú contextual instalado"
 
 msgctxt "#32104"
 msgid "Ignore Kodi playlist with only one item if there is a selection"
-msgstr "Ignorar lista de reproducción Kodi con solo un elemento si hay una selección"
+msgstr "Ignorar listas Kodi con solo un elemento si hay una selección"
 
 msgctxt "#32105"
 msgid "Update when Kodi starts"
-msgstr "Actualizar durante el inicio de Kodi "
+msgstr "Actualizar durante el inicio de Kodi"
 
 msgctxt "#32106"
 msgid "Update after library scan"
@@ -577,11 +577,11 @@ msgstr "Tipo"
 
 msgctxt "#32328"
 msgid "Play 3D If 3D Feature"
-msgstr "Reproducir 3D si existe función 3D"
+msgstr "Reproducir 3D si existe la función 3D"
 
 msgctxt "#32329"
 msgid "Audio Format Bumper"
-msgstr "Bumper formato de audio"
+msgstr "Formato de audio Bumper"
 
 msgctxt "#32330"
 msgid "This action is not set or not yet applied."
@@ -589,15 +589,15 @@ msgstr "Esta acción no está establecida o aún no se aplicó."
 
 msgctxt "#32331"
 msgid "Command"
-msgstr ""
+msgstr "Comando"
 
 msgctxt "#32332"
 msgid "Argument"
-msgstr ""
+msgstr "Argumento"
 
 msgctxt "#32333"
 msgid "Condition"
-msgstr ""
+msgstr "Condición"
 
 msgctxt "#32334"
 msgid "Video Bumpers"
@@ -607,19 +607,19 @@ msgstr ""
 
 msgctxt "#32500"
 msgid "Not Found"
-msgstr ""
+msgstr "No encontrado"
 
 msgctxt "#32501"
 msgid "No sequences found."
-msgstr ""
+msgstr "Secuencia no encontrada."
 
 msgctxt "#32502"
 msgid "Choose Sequence"
-msgstr ""
+msgstr "Escoger secuencia"
 
 msgctxt "#32503"
 msgid "No Content Path"
-msgstr ""
+msgstr "Ruta no establecida"
 
 msgctxt "#32504"
 msgid "Content path not set or not applied"
