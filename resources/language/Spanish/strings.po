@@ -307,7 +307,7 @@ msgstr "Volver"
 
 msgctxt "#32073"
 msgid "Features"
-msgstr "Caracteristicas"
+msgstr "Características"
 
 msgctxt "#32074"
 msgid "Audio Format"
@@ -351,7 +351,7 @@ msgstr "Acciones"
 
 msgctxt "#32084"
 msgid "Execute action on sequence pause"
-msgstr "Ejecutar acción durante la pausa"
+msgstr "Ejecutar acción durante pausa"
 
 msgctxt "#32085"
 msgid "Action file path"
@@ -359,11 +359,11 @@ msgstr "Ruta de archivo para acción"
 
 msgctxt "#32086"
 msgid "Execute action on sequence resume"
-msgstr "Ejecutar acción durante la reanudación"
+msgstr "Ejecutar acción durante reanudación"
 
 msgctxt "#32087"
 msgid "Last"
-msgstr "Últimmo"
+msgstr "Último"
 
 msgctxt "#32088"
 msgid "Execute action on sequence abort"
@@ -623,19 +623,19 @@ msgstr "Ruta no establecida"
 
 msgctxt "#32504"
 msgid "Content path not set or not applied"
-msgstr ""
+msgstr "Ruta para contenido no establecida o no aplicada"
 
 msgctxt "#32505"
 msgid "Loading Content"
-msgstr ""
+msgstr "Cargando contenido"
 
 msgctxt "#32506"
 msgid "Download"
-msgstr ""
+msgstr "Descargar"
 
 msgctxt "#32507"
 msgid "Downloading demo content"
-msgstr ""
+msgstr "Descargando contenido demostración"
 
 msgctxt "#32508"
 msgid "No Content"
