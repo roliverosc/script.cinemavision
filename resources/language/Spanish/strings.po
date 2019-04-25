@@ -639,35 +639,35 @@ msgstr "Descargando contenido demostración"
 
 msgctxt "#32508"
 msgid "No Content"
-msgstr ""
+msgstr "Sin contenido"
 
 msgctxt "#32509"
 msgid "No content found for current rating system."
-msgstr ""
+msgstr "No se encontró contenido para el sistema de calificación actual"
 
 msgctxt "#32510"
 msgid "Select Style"
-msgstr ""
+msgstr "Seleccionar estilo"
 
 msgctxt "#32511"
 msgid "None found"
-msgstr ""
+msgstr "Nada encontrado"
 
 msgctxt "#32512"
 msgid "No action file(s) set"
-msgstr ""
+msgstr "No hay archivo(s) de acción establecido"
 
 msgctxt "#32513"
 msgid "MISSING!"
-msgstr ""
+msgstr "¡FALTAN!"
 
 msgctxt "#32514"
 msgid "Parser Messages"
-msgstr ""
+msgstr "Mensajes parser"
 
 msgctxt "#32515"
 msgid "Done"
-msgstr ""
+msgstr "Echo"
 
 msgctxt "#32516"
 msgid "Action file(s) parsed OK"
@@ -675,35 +675,35 @@ msgstr ""
 
 msgctxt "#32517"
 msgid "Change Path"
-msgstr ""
+msgstr "Cambiar ruta"
 
 msgctxt "#32518"
 msgid "Choose a new path or clear the current path?"
-msgstr ""
+msgstr "¿Desea escoger una nueva ruta o limpiar la ruta actual?"
 
 msgctxt "#32519"
 msgid "Choose"
-msgstr ""
+msgstr "Escoger"
 
 msgctxt "#32520"
 msgid "Clear"
-msgstr ""
+msgstr "Limpiar"
 
 msgctxt "#32521"
 msgid "Select File"
-msgstr ""
+msgstr "Seleccionar archivo"
 
 msgctxt "#32522"
 msgid "No matching content found."
-msgstr ""
+msgstr "No encontrado archivo coincidente"
 
 msgctxt "#32523"
 msgid "Options"
-msgstr ""
+msgstr "Opciones"
 
 msgctxt "#32524"
 msgid "Select Directory"
-msgstr ""
+msgstr "Seleccionar directorio"
 
 msgctxt "#32525"
 msgid "No Options"
@@ -715,95 +715,95 @@ msgstr ""
 
 msgctxt "#32527"
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmar"
 
 msgctxt "#32528"
 msgid "Sequence was modified."
-msgstr ""
+msgstr "La secuencia fue modificada."
 
 msgctxt "#32529"
 msgid "Do you really want to exit without saving changes?"
-msgstr ""
+msgstr "¿Desea realmente salir sin guardar los cambios?"
 
 msgctxt "#32530"
 msgid "Add"
-msgstr ""
+msgstr "Añadir"
 
 msgctxt "#32531"
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 msgctxt "#32532"
 msgid "Rename"
-msgstr ""
+msgstr "Renombrar"
 
 msgctxt "#32533"
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 msgctxt "#32534"
 msgid "Move"
-msgstr ""
+msgstr "Move4"
 
 msgctxt "#32535"
 msgid "Disable"
-msgstr ""
+msgstr "Deshabilitado"
 
 msgctxt "#32536"
 msgid "Remove"
-msgstr ""
+msgstr "Borrar"
 
 msgctxt "#32537"
 msgid "Do you really want to remove this module?"
-msgstr ""
+msgstr "¿Desea realmente borrar este módulo?"
 
 msgctxt "#32538"
 msgid "Enabled"
-msgstr ""
+msgstr "Habilitado"
 
 msgctxt "#32539"
 msgid "Enter a name for this item"
-msgstr ""
+msgstr "Introducir un nombre para este elemento"
 
 msgctxt "#32540"
 msgid "Add-on settings"
-msgstr ""
+msgstr "Ajustes add-on"
 
 msgctxt "#32541"
 msgid "New"
-msgstr ""
+msgstr "Nuevo"
 
 msgctxt "#32542"
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 msgctxt "#32543"
 msgid "Save as..."
-msgstr ""
+msgstr "Guardar como..."
 
 msgctxt "#32544"
 msgid "Load"
-msgstr ""
+msgstr "Cargar"
 
 msgctxt "#32545"
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 msgctxt "#32546"
 msgid "Export"
-msgstr ""
+msgstr "Exportar"
 
 msgctxt "#32547"
 msgid "Play"
-msgstr ""
+msgstr "Reproducir"
 
 msgctxt "#32548"
 msgid "Sequence Options"
-msgstr ""
+msgstr "Opciones de la secuencia"
 
 msgctxt "#32549"
 msgid "Sequence is modified."
-msgstr ""
+msgstr "Secuencia modificada."
 
 msgctxt "#32550"
 msgid "This will delete all changes."
