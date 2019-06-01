@@ -39,7 +39,7 @@ msgstr "Expresión regular para detectar etiquetado 3D"
 
 msgctxt "#32006"
 msgid "Fallback to 2D bumper"
-msgstr "Retroceder a bumper 2D "
+msgstr "Volver a bumper 2D "
 
 msgctxt "#32007"
 msgid "Content"
@@ -351,7 +351,7 @@ msgstr "Acciones"
 
 msgctxt "#32084"
 msgid "Execute action on sequence pause"
-msgstr "Ejecutar acción durante pausa"
+msgstr "Ejecutar la acción durante la pausa"
 
 msgctxt "#32085"
 msgid "Action file path"
@@ -387,7 +387,7 @@ msgstr "Scope (necesario reiniciar add-on)"
 
 msgctxt "#32093"
 msgid "Logging"
-msgstr ""
+msgstr "Registro"
 
 msgctxt "#32094"
 msgid "Debug logging"
