@@ -323,7 +323,7 @@ msgstr "Sistema de valoración predeterminado (necesita establecer la ruta para 
 
 msgctxt "#32077"
 msgid "Rating bumper"
-msgstr "Calificación bumper"
+msgstr ""
 
 msgctxt "#32078"
 msgid "Image"
@@ -351,7 +351,7 @@ msgstr "Acciones"
 
 msgctxt "#32084"
 msgid "Execute action on sequence pause"
-msgstr "Ejecutar la acción durante la pausa"
+msgstr "Ejecutar acción durante la pausa"
 
 msgctxt "#32085"
 msgid "Action file path"
@@ -415,7 +415,7 @@ msgstr "Restablecer el contenido de la base de datos"
 
 msgctxt "#32100"
 msgid "Clear trailers broken status"
-msgstr "Borrar tráilers con error"
+msgstr "Limpiar tráilers con error"
 
 msgctxt "#32101"
 msgid "Extras"
@@ -529,11 +529,11 @@ msgstr "Saltar"
 
 msgctxt "#32316"
 msgid "Feature queue is full"
-msgstr "La colá de funciones está llena"
+msgstr "Cola de funciones llena"
 
 msgctxt "#32317"
 msgid "Feature queue is empty"
-msgstr "La colá de funciones está vacía"
+msgstr "Cola de funciones vacía"
 
 msgctxt "#32318"
 msgid "Kodi Database"
@@ -569,7 +569,7 @@ msgstr "Ruta"
 
 msgctxt "#32326"
 msgid "CV Trailers Folder"
-msgstr "Carpeta de Tráilers CV"
+msgstr "Carpeta Tráilers CV"
 
 msgctxt "#32327"
 msgid "Type"
@@ -601,7 +601,7 @@ msgstr "Condición"
 
 msgctxt "#32334"
 msgid "Video Bumpers"
-msgstr ""
+msgstr "Vídeo Bumpers"
 
 #Dialogs, etc.
 
@@ -671,7 +671,7 @@ msgstr "Echo"
 
 msgctxt "#32516"
 msgid "Action file(s) parsed OK"
-msgstr ""
+msgstr "Acción archivo(s) analizado OK"
 
 msgctxt "#32517"
 msgid "Change Path"
