@@ -215,7 +215,7 @@ msgstr "Tráilers"
 
 msgctxt "#32050"
 msgid "Prefer unwatched over priority"
-msgstr "Preferir no vistas sobre prioridad"
+msgstr "Preferir no vistos sobre prioridad"
 
 msgctxt "#32051"
 msgid "Clear trailers watched status"
@@ -323,7 +323,7 @@ msgstr "Sistema de valoración predeterminado (necesita establecer la ruta para 
 
 msgctxt "#32077"
 msgid "Rating bumper"
-msgstr "Bumper calificación"
+msgstr "Calificación bumper"
 
 msgctxt "#32078"
 msgid "Image"
