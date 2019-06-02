@@ -323,7 +323,7 @@ msgstr "Sistema de valoración predeterminado (necesita establecer la ruta para 
 
 msgctxt "#32077"
 msgid "Rating bumper"
-msgstr ""
+msgstr "Valoración bumper"
 
 msgctxt "#32078"
 msgid "Image"
@@ -707,11 +707,11 @@ msgstr "Seleccionar directorio"
 
 msgctxt "#32525"
 msgid "No Options"
-msgstr ""
+msgstr "Sin opciones"
 
 msgctxt "#32526"
 msgid "No options found."
-msgstr ""
+msgstr "Opciones no encontradas."
 
 msgctxt "#32527"
 msgid "Confirm"
@@ -743,7 +743,7 @@ msgstr "Copiar"
 
 msgctxt "#32534"
 msgid "Move"
-msgstr "Move4"
+msgstr "Mover"
 
 msgctxt "#32535"
 msgid "Disable"
@@ -807,15 +807,15 @@ msgstr "Secuencia modificada."
 
 msgctxt "#32550"
 msgid "This will delete all changes."
-msgstr ""
+msgstr "Esto borrara todos los cambios."
 
 msgctxt "#32551"
 msgid "Do you really want to do this?"
-msgstr ""
+msgstr "¿Realmente quieres hacer esto?"
 
 msgctxt "#32552"
 msgid "Select Save Directory"
-msgstr ""
+msgstr "Seleccionar directorio para guardar"
 
 msgctxt "#32553"
 msgid "Please set the content path in addon settings."
