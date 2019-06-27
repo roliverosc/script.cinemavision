@@ -103,7 +103,7 @@ msgstr "Permitir salto de vídeo"
 
 msgctxt "#32022"
 msgid "Video delay (milliseconds)"
-msgstr "Retardo del vídeo (milisegundos)"
+msgstr "Retardo de vídeo (milisegundos)"
 
 msgctxt "#32023"
 msgid "Video"
@@ -231,7 +231,7 @@ msgstr "Archivo único"
 
 msgctxt "#32054"
 msgid "Source: Content filter (scrapers)"
-msgstr "Recurso: Filtro por contenido (scrapers) "
+msgstr "Recurso: Filtro para contenido (scrapers) "
 
 msgctxt "#32055"
 msgid "Source: Content order"
@@ -279,7 +279,7 @@ msgstr ""
 
 msgctxt "#32066"
 msgid "Filter for 3D based on feature"
-msgstr "Filtrar por caractéristica basado en 3D"
+msgstr "Filtrar por 3D en características"
 
 msgctxt "#32067"
 msgid "Quality"
