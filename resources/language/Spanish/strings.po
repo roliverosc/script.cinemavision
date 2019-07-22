@@ -581,7 +581,7 @@ msgstr "Reproducir 3D si existe la función 3D"
 
 msgctxt "#32329"
 msgid "Audio Format Bumper"
-msgstr "Formato de audio Bumper"
+msgstr "Bumper de formato de audio"
 
 msgctxt "#32330"
 msgid "This action is not set or not yet applied."
@@ -601,7 +601,7 @@ msgstr "Condición"
 
 msgctxt "#32334"
 msgid "Video Bumpers"
-msgstr "Vídeo Bumpers"
+msgstr "Bumpers de vídeo"
 
 #Dialogs, etc.
 
@@ -819,240 +819,240 @@ msgstr "Seleccionar directorio para guardar"
 
 msgctxt "#32553"
 msgid "Please set the content path in addon settings."
-msgstr ""
+msgstr "Por favor, establezca la ruta del contenido en los ajustes del complemento."
 
 msgctxt "#32554"
 msgid "Enter name for file"
-msgstr ""
+msgstr "Introduzca el nombre para el archivo"
 
 msgctxt "#32555"
 msgid "Set Default"
-msgstr ""
+msgstr "Establecer como predeterminado"
 
 msgctxt "#32556"
 msgid "Would you like to set this as the default for playback?"
-msgstr ""
+msgstr "¿Te gustaría configurar esto como predeterminado para la reproducción?"
 
 msgctxt "#32557"
 msgid "For 2D or 3D?"
-msgstr ""
+msgstr "¿Para 2D o 3D?"
 
 msgctxt "#32558"
 msgid "Missing"
-msgstr ""
+msgstr "Ausente"
 
 msgctxt "#32559"
 msgid "Previous save not found."
-msgstr ""
+msgstr "Guardado anterior no encontrado."
 
 msgctxt "#32560"
 msgid "Load the default or start a new sequence?"
-msgstr ""
+msgstr "¿Cargar el predeterminado o comenzar una nueva secuencia?"
 
 msgctxt "#32561"
 msgid "No Features"
-msgstr ""
+msgstr "Sin características"
 
 msgctxt "#32562"
 msgid "No movies are in the Queue."
-msgstr ""
+msgstr "No hay películas en la cola."
 
 msgctxt "#32563"
 msgid "Please queue some features and try again."
-msgstr ""
+msgstr "Por favor, ponga en cola algunas funciones y vuelve a intentarlo."
 
 msgctxt "#32564"
 msgid "Removed watched status from all trailers."
-msgstr ""
+msgstr "Eliminado el estado de visto de todos los traílers."
 
 msgctxt "#32565"
 msgid "Removed broken status from all trailers."
-msgstr ""
+msgstr "Eliminado el estado roto de todos los traílers."
 
 msgctxt "#32566"
 msgid "Would you like to paste the current old log?"
-msgstr ""
+msgstr "¿Le gustaría pegar el registro antiguo actual?"
 
 msgctxt "#32567"
 msgid "Paste the old log if you are in a new session, ie. after a Kodi crash."
-msgstr ""
+msgstr "Pegue el registro antiguo si está en una nueva sesión. Es decir, después de un cierre inesperado de Kodi."
 
 msgctxt "#32568"
 msgid "Current"
-msgstr ""
+msgstr "Actual"
 
 msgctxt "#32569"
 msgid "Old"
-msgstr ""
+msgstr "Antiguo"
 
 msgctxt "#32570"
 msgid "No Log"
-msgstr ""
+msgstr "Sin log"
 
 msgctxt "#32571"
 msgid "That log file does not exist!"
-msgstr ""
+msgstr "¡Ese archivo de registro no existe!"
 
 msgctxt "#32572"
 msgid "Enter Pastebin password (only needed 1st time - NOT stored)"
-msgstr ""
+msgstr "Introduzca contraseña Pastebin (solo se necesita 1ª vez - NO almacenado)"
 
 msgctxt "#32573"
 msgid "Failed"
-msgstr ""
+msgstr "Error"
 
 msgctxt "#32574"
 msgid "Failed to create paste as user"
-msgstr ""
+msgstr "Error al crear pegar como usuario"
 
 msgctxt "#32575"
 msgid "Aborted"
-msgstr ""
+msgstr "Abortado"
 
 msgctxt "#32576"
 msgid "Paste aborted!"
-msgstr ""
+msgstr "¡Pegar abortado!"
 
 msgctxt "#32577"
 msgid "Creating paste..."
-msgstr ""
+msgstr "Creando pegar..."
 
 msgctxt "#32578"
 msgid "Paste created at:"
-msgstr ""
+msgstr "Pegado creado en:"
 
 msgctxt "#32579"
 msgid "OK"
-msgstr ""
+msgstr "Aceptar"
 
 msgctxt "#32580"
 msgid "Show QR Code"
-msgstr ""
+msgstr "Mostrar código QR"
 
 msgctxt "#32581"
 msgid "Failed to create paste:"
-msgstr ""
+msgstr "Error al crear pegar:"
 
 msgctxt "#32582"
 msgid "QR Code"
-msgstr ""
+msgstr "Código QR"
 
 msgctxt "#32583"
 msgid "Creating QR code..."
-msgstr ""
+msgstr "Creando código QR..."
 
 msgctxt "#32584"
 msgid "Database reset."
-msgstr ""
+msgstr "Restablecer la base de datos."
 
 msgctxt "#32585"
 msgid "User key deleted."
-msgstr ""
+msgstr "Clave de usuario eliminada."
 
 msgctxt "#32586"
 msgid "USE DEFAULT"
-msgstr ""
+msgstr "USAR POR DEFECTO"
 
 msgctxt "#32587"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgctxt "#32588"
 msgid "Apply to queue"
-msgstr ""
+msgstr "Aplicar a la cola"
 
 msgctxt "#32589"
 msgid "Click an item to start a move."
-msgstr ""
+msgstr "Haga clic en un elemento para iniciar un movimiento."
 
 msgctxt "#32590"
 msgid "Click the context menu button or delete key on a keyboard to remove an item."
-msgstr ""
+msgstr "Haga clic en el botón del menú contextual o en la tecla SUPRIMIR en un teclado para eliminar un elemento."
 
 msgctxt "#32591"
 msgid "DEMO MODE"
-msgstr ""
+msgstr "MODO DEMOSTRACIÓN"
 
 msgctxt "#32592"
 msgid "Set Content path in settings"
-msgstr ""
+msgstr "Establecer ruta de contenido en ajustes"
 
 msgctxt "#32593"
 msgid "Execute abort action after tests"
-msgstr ""
+msgstr "Ejecutar acción abortar después de las pruebas"
 
 msgctxt "#32594"
 msgid "Never"
-msgstr ""
+msgstr "Nunca"
 
 msgctxt "#32595"
 msgid "Always"
-msgstr ""
+msgstr "Siempre"
 
 msgctxt "#32596"
 msgid "Ask"
-msgstr ""
+msgstr "Preguntar"
 
 msgctxt "#32597"
 msgid "Cleanup"
-msgstr ""
+msgstr "Limpiar"
 
 msgctxt "#32598"
 msgid "Run abort action?"
-msgstr ""
+msgstr "¿Ejecutar acción abortar?"
 
 msgctxt "#32599"
 msgid "Default 2D"
-msgstr ""
+msgstr "2D por defecto"
 
 msgctxt "#32600"
 msgid "Default 3D"
-msgstr ""
+msgstr "3D por defecto"
 
 msgctxt "#32601"
 msgid "ERROR"
-msgstr ""
+msgstr "ERROR"
 
 msgctxt "#32602"
 msgid "Error parsing sequence"
-msgstr ""
+msgstr "Error en secuecia de análisis"
 
 msgctxt "#32603"
 msgid "No Feature"
-msgstr ""
+msgstr "Sin funciones"
 
 msgctxt "#32604"
 msgid "Sequence does not have a feature module, which is required to play items selected in Kodi."
-msgstr ""
+msgstr "La secuencia no tiene un módulo de funciones, que es necesario para reproducir los elementos seleccionados en Kodi."
 
 msgctxt "#32605"
 msgid "Continue?"
-msgstr ""
+msgstr "¿Desea continuar?"
 
 msgctxt "#32606"
 msgid "Failed to write sequence file!"
-msgstr ""
+msgstr "¡Error al escribir el archivo de secuencia!"
 
 msgctxt "#32607"
 msgid "Kodi may be unable to write to this location."
-msgstr ""
+msgstr "Es posible que Kodi no pueda escribir en esta ubicación."
 
 msgctxt "#32608"
 msgid "Active"
-msgstr ""
+msgstr "Activo"
 
 msgctxt "#32609"
 msgid "Inactive"
-msgstr ""
+msgstr "Inactivo"
 
 msgctxt "#32610"
 msgid "Enable"
-msgstr ""
+msgstr "Habilitar"
 
 msgctxt "#32611"
 msgid "Reset module to defaults"
-msgstr ""
+msgstr "Restablecer el modulo a por defecto"
 
 msgctxt "#32612"
 msgid "Sequence settings"
-msgstr ""
+msgstr "Ajustes para secuencia"
